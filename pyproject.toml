@@ -1,0 +1,7 @@
+[project]
+name = "py-triton-experiments"
+version = "0.0.0"
+description = "Just some experiments with Triton"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["numpy>=2.2.3", "ruff>=0.9.7", "torch>=2.6.0", "triton>=3.2.0"]
