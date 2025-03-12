@@ -17,5 +17,5 @@ $ #or uv run ./{experiment}/main.py
 
 Experiments:
 
-- Vector addition: [./vector_add](./vector_add/main.py)
-- K-means clustering: [./kmeans](./kmeans/main.py)
+- Vector addition: [experiments/vector_add/main.py](./experiments/vector_add/main.py)
+- K-means clustering: [experiments/kmeans/main.py](./experiments/kmeans/main.py)
