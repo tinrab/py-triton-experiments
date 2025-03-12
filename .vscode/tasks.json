@@ -29,5 +29,14 @@
             },
             "problemMatcher": []
         },
+        {
+            "type": "shell",
+            "command": "just run kmeans",
+            "label": "run: kmeans",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": []
+        },
     ]
 }
